@@ -4,6 +4,8 @@
 # Plex Channel List Update
 
 This script updates the channels.json for Plex TV
+
+Updates: (every Sunday at midnight)
 ---
 
 <details>
